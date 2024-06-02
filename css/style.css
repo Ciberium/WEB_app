@@ -1,0 +1,66 @@
+body {
+    background-color: #0f3348;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+
+.container {
+    margin-top: 30px;
+}
+
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.row {
+}
+
+.col-3 {
+}
+
+.nav_logo {
+    background: url(../image/logo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 60px;
+    height: 70px;
+}
+
+.col-9 {
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.col-8 {
+}
+
+.col-4 {
+}
+
+.img_size {
+}
+
+  
+  .btn_red {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: brown;
+    color: azure;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .form_reg {
+    margin: auto;
+    padding-top: 10px;
+  }
+
+  
+
